@@ -597,8 +597,8 @@
       ]
     },
     "/Users/arturrychter/demos/lucky-nft-swap_v2/contracts/LuckyNftSwap.sol": {
-      "lastModificationDate": 1656127361717,
-      "contentHash": "0d95ba6a6e85483893c96efb7148f537",
+      "lastModificationDate": 1656212687941,
+      "contentHash": "1496bf70f53cadbe742c96506ae194c7",
       "sourceName": "contracts/LuckyNftSwap.sol",
       "solcConfig": {
         "version": "0.8.14",
